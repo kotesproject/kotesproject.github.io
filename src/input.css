@@ -19,6 +19,22 @@
   }
 }
 
+.tnc h1 {
+  font-size: 1.875rem /* 30px */;
+  line-height: 2.25rem /* 36px */;
+  font-weight: 600;
+}
+
+.tnc h2 {
+  font-size: 1.5rem /* 24px */;
+  line-height: 2rem /* 32px */;
+  font-weight: 600;
+}
+
+.tnc li {
+  margin-left: 1.8rem;
+}
+
 > section > section {
   min-height: 80vh;
   height: fit-content;
